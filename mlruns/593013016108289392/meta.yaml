@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/uniab/MLOPS/150-DAYS-MLOPS/Sentiment-Analysis-MLOPS-Project/mlruns/593013016108289392
+creation_time: 1769087176847
+experiment_id: '593013016108289392'
+last_update_time: 1769087176847
+lifecycle_stage: active
+name: my-dvc-pipeline

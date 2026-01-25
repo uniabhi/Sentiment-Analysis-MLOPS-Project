@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/uniab/MLOPS/150-DAYS-MLOPS/Sentiment-Analysis-MLOPS-Project/mlruns/593013016108289392/49efa2ba598c4e9b8c7f23e9936a74d4/artifacts
+end_time: 1769087203897
+entry_point_name: ''
+experiment_id: '593013016108289392'
+lifecycle_stage: active
+run_id: 49efa2ba598c4e9b8c7f23e9936a74d4
+run_name: upbeat-skunk-758
+run_uuid: 49efa2ba598c4e9b8c7f23e9936a74d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769087177753
+status: 3
+tags: []
+user_id: uniab
