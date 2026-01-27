@@ -1,6 +1,3 @@
-Here is the complete content for your `README.md` file. You can copy the code block below and save it as `README.md` in the root of your project directory.
-
-```markdown
 # Sentiment Analysis MLOps Project
 
 This is an end-to-end MLOps project for classifying sentiments from the IMDB dataset. It demonstrates a complete machine learning lifecycle, including data versioning, experiment tracking, containerization, automated deployment to AWS EKS, and real-time monitoring.
